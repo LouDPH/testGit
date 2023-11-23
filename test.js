@@ -14,5 +14,4 @@ if (nbr1 > 0 && nbr2 > 0) {
     diviseur = i;
     }
     }
-console.log ("Le PGCD entre "+nbr1+" et "+nbr2+ " est : " +diviseur);
 }
